@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(20, 110, 255, 0.5);
+}
+
+.header-holder {
+  text-align: center;
+  padding: 30px;
+}
+
+.header {
+  font-weight: 800;
+  font-family: fantasy;
+  font-size: 60px;
+  font-style: italic;
+  text-shadow: 10px 10px 7px silver;
+}
+
+.para-holder {
+  text-align: center;
+}
+
+.para {
+  font-size: 34px;
+  padding: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: snow;
+  line-height: 2;
+}
+
+.appreciation {
+  font-size: 34px;
+  padding: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: snow;
+  line-height: 2;
+}
+
+.link {
+  text-align: center;
+}
+
+a {
+  font-size: 34px;
+  padding: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: green;
+  line-height: 2;
+  text-align: center;
+  text-decoration: none;
+}
